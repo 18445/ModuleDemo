@@ -1,0 +1,16 @@
+ext{
+
+    //是否是发布版本
+    isRelease = true
+
+    username = "Yan"
+
+    //map
+    app_android = [
+
+        compileSdk: 32,
+        minSdk: 21,
+        targetSdk: 32,
+
+    ]
+}

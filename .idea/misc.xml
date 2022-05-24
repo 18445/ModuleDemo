@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudio/ModuleDemo/app/src/main/res/layout/activity_main.xml" value="0.3619791666666667" />
+        <entry key="..\:/AndroidStudio/ModuleDemo/older/src/main/res/layout/older_main_activity.xml" value="0.3619791666666667" />
+        <entry key="..\:/AndroidStudio/ModuleDemo/order/src/main/res/layout/older_main_activity.xml" value="0.34739583333333335" />
+        <entry key="..\:/AndroidStudio/ModuleDemo/personal/src/main/res/layout/personal_main_activity.xml" value="0.18489583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="EntryPointsManager">
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="com.google.auto.service.AutoService" />
+    </list>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
